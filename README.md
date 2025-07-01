@@ -1,16 +1,25 @@
 # Summary Insights
 
 ### 1. Cashless Advantage
-→ Show how card transactions tend to bring in more revenue, supporting a potential shift toward cashless operations.
+→ The proportions of cashless payments decreased at the start of March, however it increased at July where cash transactions are not used anymore.
 
 ### 2. Top-Performing Drinks
-→ Highlight which coffee products drive the most income—and which may not be worth keeping.
+→ The amount of Americano orders dropped on April, while milk based coffees sales have increased thoughout the year.
 
 ### 3. Peak Hours
-→ Uncover daily and hourly sales patterns to inform scheduling and resource planning.
+→ Peak customer hours are at 8-11 AM, in the morning.
 
-### 4.Revenue by Behavior
-→ Analyze when and what customers buy to support strategic pricing and promotions.
+### 4. Revenue by Behavior
+→ Drink sales increase during the start and end of the year.
 
-### 5.Tracking Growth
-→ Evaluate whether the coffee shop’s revenue is growing, stable, or declining.
+### 5. Tracking Growth
+→ Total revenue is fluctuating, where lost in revenue happens at Q2 to Q3, and the end of the year.
+
+# Recommendations
+
+
+### 1. Adopt full cashless payment.
+### 2. Focus more on milk-based coffees.
+### 3. Optimize staffs in the morning peak hours.
+### 4. Leverage seasonal promotions.
+### 5. Consider seasonal or limited offers revenue dips.
